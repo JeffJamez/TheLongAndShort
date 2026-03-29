@@ -1,0 +1,7 @@
+.github
+build
+node_modules
+uploads*
+.env
+.eslintcache
+src/prisma
